@@ -47,8 +47,8 @@
     </kenzo>
 
     <lettuce>
-      <Filename>BootleggersROM-Oreo4lettuce.2.0-BETA-Unshishufied-20180224.zip</Filename>
-      <RomUrl id="rom" title="" description="">https://sourceforge.net/projects/bootleggersrom/files/lettuce</RomUrl>
+      <Filename>BootleggersROM-Oreo4lettuce.2.1-BETA-Shishufied-20180328.zip</Filename>
+      <RomUrl id="rom" title="" description="">https://www.androidfilehost.com/?fid=746010030569965182</RomUrl>
       <RomMirrorUrl id="romirror" title="Mirror" description="Get the link from another place">https://google.se</RomMirrorUrl>
       <!--
 	  <ChangelogUrl id="changelog" title="" description="">
